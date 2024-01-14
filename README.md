@@ -1,4 +1,4 @@
 Context is all
 
-prompter@openprompted.com
+aiyourway-prompted.com
 
