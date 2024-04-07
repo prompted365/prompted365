@@ -1,4 +1,4 @@
 Context is all
 
-aiyourway-prompted.com
+promptedllc.com
 
